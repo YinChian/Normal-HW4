@@ -1,0 +1,771 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vdebounce
+!s110 1653383723
+!i10b 1
+!s100 PPn21<Ybo8GG8^3FIle4R0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ITMlJXGBA^ZfY8B>4V1MTU1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Digital_Logic_Design/Normal/Homework 4
+w1653383703
+8D:/Digital_Logic_Design/Normal/Homework 4/debounce.v
+FD:/Digital_Logic_Design/Normal/Homework 4/debounce.v
+!i122 63
+L0 1 29
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1653383723.000000
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/debounce.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/debounce.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vDW01_add
+Z6 !s110 1653308831
+!i10b 1
+!s100 A:L0oGCAIDDX]:hWT25h81
+R0
+I3fAEe9kQHO3iL5RzCja<O2
+R1
+R2
+Z7 w1113840000
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_add.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_add.v
+!i122 1
+Z8 L0 31 47
+R3
+r1
+!s85 0
+31
+Z9 !s108 1653308831.000000
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_add.v|
+!i113 1
+R4
+R5
+n@d@w01_add
+vDW01_addsub
+R6
+!i10b 1
+!s100 V@R38OYJ>U]iaD?lW>Bl72
+R0
+IJD311?4Kgfo[H6M0EI8443
+R1
+R2
+R7
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_addsub.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_addsub.v
+!i122 2
+L0 36 91
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_addsub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_addsub.v|
+!i113 1
+R4
+R5
+n@d@w01_addsub
+vDW01_cmp2
+R6
+!i10b 1
+!s100 K:dHQjoh1bjT04Xm`>oi12
+R0
+InZf8JTTYK3@18dKOPE1zM2
+R1
+R2
+R7
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_cmp2.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_cmp2.v
+!i122 3
+L0 31 81
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_cmp2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_cmp2.v|
+!i113 1
+R4
+R5
+n@d@w01_cmp2
+vDW01_sub
+R6
+!i10b 1
+!s100 `;@b6U=Kc2VkLk;inzaW:2
+R0
+I8<GJ4l7[[c?acU7:im`G20
+R1
+R2
+R7
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_sub.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_sub.v
+!i122 4
+R8
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW01_sub.v|
+!i113 1
+R4
+R5
+n@d@w01_sub
+vDW02_mult
+R6
+!i10b 1
+!s100 z52>QSSc1PLe2d^nciPOj2
+R0
+IZem>=HmUQaeM:fA]PaXK@2
+R1
+R2
+R7
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW02_mult.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW02_mult.v
+!i122 5
+L0 33 25
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW02_mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW02_mult.v|
+!i113 1
+R4
+R5
+n@d@w02_mult
+vDW8051_alu
+R6
+!i10b 1
+!s100 ld8T`TO8MPmMhGfOGDgLj0
+R0
+IDP<l0<[B6OTQBGVS0MMhH0
+R1
+R2
+Z10 w1082044800
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_alu.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_alu.v
+!i122 6
+L0 34 870
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_alu.v|
+!i113 1
+R4
+R5
+n@d@w8051_alu
+vDW8051_biu
+R6
+!i10b 1
+!s100 A@YAc4W`84=M0LiVV3a[R3
+R0
+I^CICllOABH]Sb643X]=>02
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_biu.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_biu.v
+!i122 7
+L0 39 475
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_biu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_biu.v|
+!i113 1
+R4
+R5
+n@d@w8051_biu
+vDW8051_control
+Z11 !s110 1653308832
+!i10b 1
+!s100 lZPI@jgZ<SWKMLcobX=Gm2
+R0
+IQ_Q^1[ojbSC^9_]jOl4Jg2
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_control.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_control.v
+!i122 8
+L0 73 2167
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_control.v|
+!i113 1
+R4
+R5
+n@d@w8051_control
+vDW8051_core
+R11
+!i10b 1
+!s100 V78@O2zi`DIbNjRQo;=Si2
+R0
+I_70i8_:1QhU^Q=Qfdo^<f2
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_core.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_core.v
+!i122 9
+L0 40 585
+R3
+r1
+!s85 0
+31
+Z12 !s108 1653308832.000000
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_core.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_core.v|
+!i113 1
+R4
+R5
+n@d@w8051_core
+vDW8051_cpu
+R11
+!i10b 1
+!s100 2O;AnY4`8fZIi7NHzzfLg0
+R0
+IGOa=<WkVj;Mogfb5h[Xc53
+R1
+R2
+w1120110120
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_cpu.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_cpu.v
+!i122 10
+L0 35 719
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_cpu.v|
+!i113 1
+R4
+R5
+n@d@w8051_cpu
+vDW8051_intr_0
+R11
+!i10b 1
+!s100 FiM9PV05F]G;2F>hGOm?_1
+R0
+IDIC32[T]jokVFX7zF2ng@2
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_intr_0.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_intr_0.v
+!i122 11
+L0 38 507
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_intr_0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_intr_0.v|
+!i113 1
+R4
+R5
+n@d@w8051_intr_0
+vDW8051_intr_1
+R11
+!i10b 1
+!s100 bB1nb6a:J:5id>VOeYK;C2
+R0
+IaXShD]:OU4JmFcM2zcblz3
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_intr_1.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_intr_1.v
+!i122 12
+L0 42 808
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_intr_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_intr_1.v|
+!i113 1
+R4
+R5
+n@d@w8051_intr_1
+vDW8051_main_regs
+R11
+!i10b 1
+!s100 C[PT>2N?b9LCN1CSnhXeL0
+R0
+I=le8nk]hW:2Zko8]^X9AX3
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_main_regs.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_main_regs.v
+!i122 13
+L0 31 277
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_main_regs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_main_regs.v|
+!i113 1
+R4
+R5
+n@d@w8051_main_regs
+vDW8051_op_decoder
+R11
+!i10b 1
+!s100 JeH@k8D3j:gDUmQ>Ehb^X1
+R0
+I<=z@ZYIjjVG<hP63z_SIg2
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_op_decoder.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_op_decoder.v
+!i122 14
+L0 37 1208
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_op_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_op_decoder.v|
+!i113 1
+R4
+R5
+n@d@w8051_op_decoder
+vDW8051_serial
+R11
+!i10b 1
+!s100 JhC<>mDl:lNFb3j7_Fbz<1
+R0
+IAa28TR6AAk75@GBoK?BMQ2
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_serial.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_serial.v
+!i122 15
+L0 33 721
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_serial.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_serial.v|
+!i113 1
+R4
+R5
+n@d@w8051_serial
+vDW8051_shftreg
+R11
+!i10b 1
+!s100 ;_X:K`V73nW4XCak1dXn60
+R0
+ISd^aPBaIE_IFLh9Vz2D<m1
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_shftreg.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_shftreg.v
+!i122 16
+L0 41 43
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_shftreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_shftreg.v|
+!i113 1
+R4
+R5
+n@d@w8051_shftreg
+vDW8051_timer
+R11
+!i10b 1
+!s100 T0>Efj];lXozL@aQ]MAkF1
+R0
+Ii8X93SN<g7Y[9=UbH]3m?0
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer.v
+!i122 17
+L0 35 507
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer.v|
+!i113 1
+R4
+R5
+n@d@w8051_timer
+vDW8051_timer2
+R11
+!i10b 1
+!s100 jCOTH?6Q>oYg@Q_H8=JE81
+R0
+IMn[BLQ3gKYZFEKb^kQHF63
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer2.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer2.v
+!i122 19
+L0 33 364
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer2.v|
+!i113 1
+R4
+R5
+n@d@w8051_timer2
+vDW8051_timer_ctr
+R11
+!i10b 1
+!s100 K1b_bOjB4aii9kNEi?n?@0
+R0
+I<30gg?0oR1ni_IQ62dDfb1
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer_ctr.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer_ctr.v
+!i122 18
+L0 35 55
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer_ctr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_timer_ctr.v|
+!i113 1
+R4
+R5
+n@d@w8051_timer_ctr
+vDW8051_u_ctr_clr
+Z13 !s110 1653308833
+!i10b 1
+!s100 VlD;iJF0BK`G52jKE9o9P2
+R0
+IUgD:<`WYi7M_i8M46;zTe1
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_u_ctr_clr.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_u_ctr_clr.v
+!i122 20
+L0 35 39
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_u_ctr_clr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_u_ctr_clr.v|
+!i113 1
+R4
+R5
+n@d@w8051_u_ctr_clr
+vDW8051_updn_ctr
+R13
+!i10b 1
+!s100 59d3Iz1[CI?caOG[EiJcA3
+R0
+IE<0jm`AH1=8:?2z84KZgH0
+R1
+R2
+R10
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_updn_ctr.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_updn_ctr.v
+!i122 21
+L0 42 49
+R3
+r1
+!s85 0
+31
+Z14 !s108 1653308833.000000
+!s107 D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_parameter.v|D:\Digital_Logic_Design\Normal\Homework 4\DW8051\.\DW8051\DW8051_package.inc|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_updn_ctr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/DW8051_updn_ctr.v|
+!i113 1
+R4
+R5
+n@d@w8051_updn_ctr
+vedge_detect
+!s110 1653324645
+!i10b 1
+!s100 15T6ESh@EAAa2Pf9bYR;30
+R0
+IjNTC3n@z[Ac1dB6lJ:Ai60
+R1
+R2
+w1653323978
+8D:/Digital_Logic_Design/Normal/Homework 4/edge_detect.v
+FD:/Digital_Logic_Design/Normal/Homework 4/edge_detect.v
+!i122 27
+L0 1 35
+R3
+r1
+!s85 0
+31
+!s108 1653324645.000000
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/edge_detect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/edge_detect.v|
+!i113 1
+R4
+R5
+vext_mem
+R13
+!i10b 1
+!s100 QWhH`Vfb72ER8EN0>7oFi0
+R0
+Ia=Qb3:n7X]1GMfJ1gf?A52
+R1
+R2
+Z15 w1652878575
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/ext_mem.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/ext_mem.v
+!i122 22
+L0 1 22
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/DW8051/ext_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/ext_mem.v|
+!i113 1
+R4
+R5
+vint_mem
+R13
+!i10b 1
+!s100 A_^@:a0ojoeTgYm]g6<FG3
+R0
+I4gdiDLQcQ1^N0Bi3@hYG20
+R1
+R2
+R15
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/int_mem.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/int_mem.v
+!i122 23
+L0 2 36
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/DW8051/int_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/int_mem.v|
+!i113 1
+R4
+R5
+vIR_CTRL
+!s110 1653404738
+!i10b 1
+!s100 JQ8>Wc@JTK<IN2j1IT;ig3
+R0
+I8^imoaeeUFCQgY]2a<BlL2
+R1
+R2
+w1653404735
+8D:/Digital_Logic_Design/Normal/Homework 4/IR_CTRL.v
+FD:/Digital_Logic_Design/Normal/Homework 4/IR_CTRL.v
+!i122 81
+L0 1 217
+R3
+r1
+!s85 0
+31
+!s108 1653404738.000000
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/IR_CTRL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/IR_CTRL.v|
+!i113 1
+R4
+R5
+n@i@r_@c@t@r@l
+vIR_RX
+!s110 1653324729
+!i10b 1
+!s100 K3S3EFQcGBJnEDT?e_8Z?0
+R0
+I:2IDz>7m8cBE13PPcXebe2
+R1
+R2
+w1653310029
+8D:/Digital_Logic_Design/Normal/Homework 4/IR_RX.v
+FD:/Digital_Logic_Design/Normal/Homework 4/IR_RX.v
+!i122 31
+L0 1 255
+R3
+r1
+!s85 0
+31
+!s108 1653324729.000000
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/IR_RX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/IR_RX.v|
+!i113 1
+R4
+R5
+n@i@r_@r@x
+vKEY_CTRL
+Z16 !s110 1653408177
+!i10b 1
+!s100 >>>XWR;oF^A^DVDHjfVH40
+R0
+I5_nRZMSi_6?jQM63T6ODg1
+R1
+R2
+w1653408170
+8D:/Digital_Logic_Design/Normal/Homework 4/KEY_CTRL.v
+FD:/Digital_Logic_Design/Normal/Homework 4/KEY_CTRL.v
+!i122 84
+L0 1 140
+R3
+r1
+!s85 0
+31
+Z17 !s108 1653408177.000000
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/KEY_CTRL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/KEY_CTRL.v|
+!i113 1
+R4
+R5
+n@k@e@y_@c@t@r@l
+vlab4
+!s110 1653399078
+!i10b 1
+!s100 RX=7SMhn[9^]XIAa1>64?0
+R0
+IgSE@RI@4QdCeL70m5b>gi0
+R1
+R2
+w1653399056
+8D:/Digital_Logic_Design/Normal/Homework 4/hw4.v
+FD:/Digital_Logic_Design/Normal/Homework 4/hw4.v
+!i122 72
+L0 1 125
+R3
+r1
+!s85 0
+31
+!s108 1653399078.000000
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/hw4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/hw4.v|
+!i113 1
+R4
+R5
+vlab4_tb
+!s110 1653381811
+!i10b 1
+!s100 jgERaU4?EA47dYNf3iX5M0
+R0
+IYVJ7n[DCJNDe@OcHA6W393
+R1
+R2
+w1653381751
+8D:/Digital_Logic_Design/Normal/Homework 4/lab4_tb.v
+FD:/Digital_Logic_Design/Normal/Homework 4/lab4_tb.v
+!i122 61
+L0 3 230
+R3
+r1
+!s85 0
+31
+!s108 1653381811.000000
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/lab4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/lab4_tb.v|
+!i113 1
+R4
+R5
+vpass_counter
+R16
+!i10b 1
+!s100 l2;6>AczEgBdoi[Lb@i[T1
+R0
+I8>5ib@0P8313kZ=hJYgI41
+R1
+R2
+w1653408149
+8D:/Digital_Logic_Design/Normal/Homework 4/pass_counter.v
+FD:/Digital_Logic_Design/Normal/Homework 4/pass_counter.v
+!i122 85
+L0 1 33
+R3
+r1
+!s85 0
+31
+R17
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/pass_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/pass_counter.v|
+!i113 1
+R4
+R5
+vrom_mem
+R13
+!i10b 1
+!s100 A5RR;0OTE>_VoSUm3zO:40
+R0
+IjKjj[;H[X2eSBQO7d9k[Q2
+R1
+R2
+w1653308766
+8D:/Digital_Logic_Design/Normal/Homework 4/DW8051/rom_mem.v
+FD:/Digital_Logic_Design/Normal/Homework 4/DW8051/rom_mem.v
+!i122 24
+L0 1 18
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/Digital_Logic_Design/Normal/Homework 4/DW8051/rom_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital_Logic_Design/Normal/Homework 4/DW8051/rom_mem.v|
+!i113 1
+R4
+R5

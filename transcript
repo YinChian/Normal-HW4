@@ -1,0 +1,79 @@
+vsim work.lab4_tb
+# vsim work.lab4_tb 
+# Start time: 00:36:50 on May 27,2022
+# Loading work.lab4_tb
+# Loading work.lab4
+# Loading work.DW8051_core
+# Loading work.DW8051_cpu
+# Loading work.DW8051_biu
+# Loading work.DW8051_updn_ctr
+# Loading work.DW8051_alu
+# Loading work.DW8051_u_ctr_clr
+# Loading work.DW8051_op_decoder
+# Loading work.DW8051_main_regs
+# Loading work.DW8051_control
+# Loading work.DW8051_timer
+# Loading work.DW8051_timer_ctr
+# Loading work.DW8051_intr_0
+# Loading work.DW8051_intr_1
+# Loading work.DW8051_timer2
+# Loading work.DW8051_serial
+# Loading work.DW8051_shftreg
+# Loading work.int_mem
+# Loading work.rom_mem
+# Loading work.KEY_CTRL
+# Loading work.debounce
+# Loading work.pass_counter
+# Loading work.IR_CTRL
+# Loading work.IR_RX
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'CPU'.  Expected 56, found 20.
+#    Time: 0 ps  Iteration: 0  Instance: /lab4_tb/lab4/CPU File: D:/Digital_Logic_Design/Normal/Homework 4/hw4.v Line: 27
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'rst_out_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'stop_mode_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'idle_mode_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'mem_addr'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'mem_data_out'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'mem_data_in'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'mem_wr_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'mem_rd_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'mem_pswr_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'mem_psrd_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'mem_ale'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'int0_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'int1_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'int2'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'int3_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'int4'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'int5_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'pfi'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'wdti'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'rxd0_in'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'rxd0_out'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'txd0'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'rxd1_in'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'rxd1_out'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'txd1'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 't0'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 't1'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 't2'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 't2ex'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 't0_out'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 't1_out'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 't2_out'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'port_pin_reg_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'p0_mem_reg_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'p0_addr_data_n'.
+# ** Warning: (vsim-3722) D:/Digital_Logic_Design/Normal/Homework 4/hw4.v(27): [TFMPC] - Missing connection for port 'p2_mem_reg_n'.
+add wave -position end  sim:/lab4_tb/k6_ctrl
+add wave -position end  sim:/lab4_tb/k9_ctrl
+add wave -position end  sim:/lab4_tb/lab4/IRDA_TXD
+run -all
+# time=94929490 IR data = 68,b6,30,cf 
+# time=181181490 IR data = 68,b6,60,9f 
+# time=235002750 IR repeat code = 1.
+# ** Note: $finish    : D:/Digital_Logic_Design/Normal/Homework 4/lab4_tb.v(177)
+#    Time: 248929470 ns  Iteration: 0  Instance: /lab4_tb
+# 1
+# Break in Module lab4_tb at D:/Digital_Logic_Design/Normal/Homework 4/lab4_tb.v line 177
+# End time: 01:13:58 on May 27,2022, Elapsed time: 0:37:08
+# Errors: 0, Warnings: 38

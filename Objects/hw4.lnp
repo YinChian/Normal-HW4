@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\ir_tx.obj" 
+TO ".\Objects\hw4" 
+PRINT(".\Listings\hw4.m51") RAMSIZE(256) 
